@@ -12,8 +12,8 @@
                 "changelog": "https://github.com/91270/Emby.MeiamSub/commit/492294941f822595446fedcf268f4117dacebc1c\n",
                 "targetAbi": "10.7.0.0",
                 "sourceUrl": "https://gitee.com/jjm2473/jellyfin-plugins-repo/raw/master/thunder-subtitles/thunder-subtitles_1.0.4.0.zip",
-                "checksum": "302d2738826596a8f987fee8c8a670b3",
-                "timestamp": "2022-01-07T08:41:16Z"
+                "checksum": "06876b80a6655a9d14e7257b8233bb64",
+                "timestamp": "2022-01-07T09:29:33Z"
             }
         ]
     },
