@@ -1,0 +1,20 @@
+[
+    {
+        "guid": "e4ce9da9-ef00-417c-96f2-861c512d45eb",
+        "name": "Thunder Subtitles",
+        "description": "Download subtitles from Thunder XMP. https://github.com/jjm2473/jellyfin-plugin-thundersub original source https://github.com/91270/Emby.MeiamSub\n",
+        "overview": "Download subtitles from Thunder XMP",
+        "owner": "jjm2473",
+        "category": "Metadata",
+        "versions": [
+            {
+                "version": "1.0.4.0",
+                "changelog": "https://github.com/91270/Emby.MeiamSub/commit/492294941f822595446fedcf268f4117dacebc1c\n",
+                "targetAbi": "10.7.0.0",
+                "sourceUrl": "https://gitee.com/jjm2473/jellyfin-plugins-repo/raw/master/thunder-subtitles/thunder-subtitles_1.0.4.0.zip",
+                "checksum": "1b26cdd7fbf26e7e56014487d3b32559",
+                "timestamp": "2022-01-07T07:18:55Z"
+            }
+        ]
+    }
+]
