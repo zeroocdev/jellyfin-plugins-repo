@@ -16,5 +16,23 @@
                 "timestamp": "2022-01-07T07:18:55Z"
             }
         ]
+    },
+    {
+        "guid": "b44072e0-f89d-4ddb-ab5d-4b81de0fb759",
+        "name": "Shooter Subtitles",
+        "description": "Download subtitles from Shooter.cn. https://github.com/jjm2473/jellyfin-plugin-shootersub original source https://github.com/91270/Emby.MeiamSub\n",
+        "overview": "Download subtitles from Shooter.cn",
+        "owner": "jjm2473",
+        "category": "Metadata",
+        "versions": [
+            {
+                "version": "1.0.4.0",
+                "changelog": "https://github.com/91270/Emby.MeiamSub/commit/492294941f822595446fedcf268f4117dacebc1c\n",
+                "targetAbi": "10.7.0.0",
+                "sourceUrl": "https://gitee.com/jjm2473/jellyfin-plugins-repo/raw/master/shooter-subtitles/shooter-subtitles_1.0.4.0.zip",
+                "checksum": "618562f223070dc2b75f0951d60aa28d",
+                "timestamp": "2022-01-07T08:23:52Z"
+            }
+        ]
     }
 ]
