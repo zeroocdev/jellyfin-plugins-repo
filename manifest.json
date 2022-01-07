@@ -12,8 +12,8 @@
                 "changelog": "https://github.com/91270/Emby.MeiamSub/commit/492294941f822595446fedcf268f4117dacebc1c\n",
                 "targetAbi": "10.7.0.0",
                 "sourceUrl": "https://gitee.com/jjm2473/jellyfin-plugins-repo/raw/master/thunder-subtitles/thunder-subtitles_1.0.4.0.zip",
-                "checksum": "1b26cdd7fbf26e7e56014487d3b32559",
-                "timestamp": "2022-01-07T07:18:55Z"
+                "checksum": "302d2738826596a8f987fee8c8a670b3",
+                "timestamp": "2022-01-07T08:41:16Z"
             }
         ]
     },
@@ -30,8 +30,8 @@
                 "changelog": "https://github.com/91270/Emby.MeiamSub/commit/492294941f822595446fedcf268f4117dacebc1c\n",
                 "targetAbi": "10.7.0.0",
                 "sourceUrl": "https://gitee.com/jjm2473/jellyfin-plugins-repo/raw/master/shooter-subtitles/shooter-subtitles_1.0.4.0.zip",
-                "checksum": "618562f223070dc2b75f0951d60aa28d",
-                "timestamp": "2022-01-07T08:23:52Z"
+                "checksum": "66223e42fb79064f88cdc3ca47f87556",
+                "timestamp": "2022-01-07T08:39:45Z"
             }
         ]
     }
